@@ -1,3 +1,0 @@
-﻿  Player.cpp
-C:\Users\fko2347010\Desktop\引っ越し３\市丸慶樹\github\study\C++\Kadai2\game.h(1,1): warning C4828: オフセット 0x311 から始まる、現在のソースの文字セット (コードページ 932) では使用できない文字がファイルに含まれています。
-  Kadai2.vcxproj -> C:\Users\fko2347010\Desktop\引っ越し３\市丸慶樹\github\study\C++\Kadai2\x64\Debug\Kadai2.exe
